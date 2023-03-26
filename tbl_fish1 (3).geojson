@@ -1,0 +1,469 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2413,43.8173 ]
+    },
+    "properties": {
+    "Plant_Number":4001,
+    "Plant_Name":"T & T Supermarket",
+    "Address":"1 And 2-790 Tapscott Road",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1X 1B8",
+    "Telephone / Téléphone":"(905) 695-8113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.15013,42.78709 ]
+    },
+    "properties": {
+    "Plant_Number":4002,
+    "Plant_Name":"Steelhead Food Co.",
+    "Address":"5 Barrie Blvd",
+    "City":"St. Thomas",
+    "Province":"ON",
+    "Postal Code / Code postal":"N5P 4B9",
+    "Telephone / Téléphone":"(519) 631-5215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.29619,43.71014 ]
+    },
+    "properties": {
+    "Plant_Number":4003,
+    "Plant_Name":"The Smoke Bloke",
+    "Address":"1171 Victoria Park Ave.",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M4B 2K5",
+    "Telephone / Téléphone":"(647) 349-6300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2917,43.8058 ]
+    },
+    "properties": {
+    "Plant_Number":4004,
+    "Plant_Name":"Ding Ho Foods Inc.",
+    "Address":"109 - 70 Silverstar Blvd",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1V 4V9",
+    "Telephone / Téléphone":"(416) 321-1818"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4623,43.68091 ]
+    },
+    "properties": {
+    "Plant_Number":4006,
+    "Plant_Name":"Tradicao de Portugal Inc.",
+    "Address":"291 Silverthorne Avenue",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M6N 3K2",
+    "Telephone / Téléphone":"(647) 532-6528"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.27661,43.78668 ]
+    },
+    "properties": {
+    "Plant_Number":4007,
+    "Plant_Name":"Ho Ho Ho Food Products",
+    "Address":"52-8 Glen Watford Drive",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1S 2C1",
+    "Telephone / Téléphone":"(416) 332-1672"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.53063,43.63486 ]
+    },
+    "properties": {
+    "Plant_Number":4008,
+    "Plant_Name":"North Fish Company Ltd.",
+    "Address":"5 Six Point Road",
+    "City":"Etobicoke",
+    "Province":"ON",
+    "Postal Code / Code postal":"M8Z 2W7",
+    "Telephone / Téléphone":"(416) 236-4891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36341,43.84241 ]
+    },
+    "properties": {
+    "Plant_Number":4009,
+    "Plant_Name":"Ocean King International Inc.",
+    "Address":"26 - 455 Cochrane Drive",
+    "City":"Markham",
+    "Province":"ON",
+    "Postal Code / Code postal":"L3R 9R4",
+    "Telephone / Téléphone":"(905) 513-6138"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5109,43.4529 ]
+    },
+    "properties": {
+    "Plant_Number":4010,
+    "Plant_Name":"T & J Seafoods",
+    "Address":"26 Elm Street",
+    "City":"Kitchener",
+    "Province":"ON",
+    "Postal Code / Code postal":"N2G 2G4",
+    "Telephone / Téléphone":"(519) 578-3080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2933,43.81404 ]
+    },
+    "properties": {
+    "Plant_Number":4011,
+    "Plant_Name":"AIP Seafood Company",
+    "Address":"2195 Mcnicoll Avenue",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1V 5P3",
+    "Telephone / Téléphone":"(416) 229-9090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8321,45.25263 ]
+    },
+    "properties": {
+    "Plant_Number":4014,
+    "Plant_Name":"Milford Bay SmokeHaus Inc.",
+    "Address":"97 Airport Rd",
+    "City":"Seguin",
+    "Province":"ON",
+    "Postal Code / Code postal":"P2A 2W8",
+    "Telephone / Téléphone":"(705) 996-0010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4637,42.0787 ]
+    },
+    "properties": {
+    "Plant_Number":4015,
+    "Plant_Name":"Loop Fisheries Ltd.",
+    "Address":"21120 Erie Street South",
+    "City":"Wheatley",
+    "Province":"ON",
+    "Postal Code / Code postal":"N0P 2P0",
+    "Telephone / Téléphone":"(519) 825-7223"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.19487,44.503 ]
+    },
+    "properties": {
+    "Plant_Number":4017,
+    "Plant_Name":"Ontario Fisheries Products Limited",
+    "Address":"2 - 22 Ronell Cres",
+    "City":"Collingwood",
+    "Province":"ON",
+    "Postal Code / Code postal":"L9Y 4J7",
+    "Telephone / Téléphone":"(705) 444-7754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2519,43.8239 ]
+    },
+    "properties": {
+    "Plant_Number":4020,
+    "Plant_Name":"Nikko Foods Inc.",
+    "Address":"5-83 Dynamic Drive",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1V 4C8",
+    "Telephone / Téléphone":"(416) 321-8140"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.33594,43.66178 ]
+    },
+    "properties": {
+    "Plant_Number":4021,
+    "Plant_Name":"Kristapsons Inc.",
+    "Address":"1095 Queen Street East",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M4M 1K7",
+    "Telephone / Téléphone":"(416) 466-5152"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.90957,47.95717 ]
+    },
+    "properties": {
+    "Plant_Number":4024,
+    "Plant_Name":"Anderson Fisheries",
+    "Address":"2 Anderson Road",
+    "City":"Wawa",
+    "Province":"ON",
+    "Postal Code / Code postal":"P0S 1K0",
+    "Telephone / Téléphone":"(705) 856-4835"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.23441,43.80669 ]
+    },
+    "properties": {
+    "Plant_Number":4025,
+    "Plant_Name":"TFF",
+    "Address":"3, 4 And 5 10 Melford Drive",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1B 2G1",
+    "Telephone / Téléphone":"(647) 348-0100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.51231,45.97056 ]
+    },
+    "properties": {
+    "Plant_Number":4027,
+    "Plant_Name":"Herbert Fisheries",
+    "Address":"21 Channel Street",
+    "City":"Killarney",
+    "Province":"ON",
+    "Postal Code / Code postal":"POM 2AO",
+    "Telephone / Téléphone":"(705) 287-2701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.62855,42.70665 ]
+    },
+    "properties": {
+    "Plant_Number":4029,
+    "Plant_Name":"Den Besten Trout Farm",
+    "Address":"244 Concession Road 11",
+    "City":"Langton",
+    "Province":"ON",
+    "Postal Code / Code postal":"N0E 1G0",
+    "Telephone / Téléphone":"(519) 875-2782"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.91177,44.42379 ]
+    },
+    "properties": {
+    "Plant_Number":4030,
+    "Plant_Name":"Williamsford Trout Farm",
+    "Address":"782769 Sideroad 3",
+    "City":"Chatsworth",
+    "Province":"ON",
+    "Postal Code / Code postal":"N0H 1G0",
+    "Telephone / Téléphone":"(519) 493-8008"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.40148,43.65271 ]
+    },
+    "properties": {
+    "Plant_Number":4035,
+    "Plant_Name":"Gia Phat Co.",
+    "Address":"155 Augusta Avenue",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M5T 2L4",
+    "Telephone / Téléphone":"(416) 593-4749"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.84038,43.26571 ]
+    },
+    "properties": {
+    "Plant_Number":4036,
+    "Plant_Name":"R. Denninger Limited",
+    "Address":"55 Brant Street",
+    "City":"Hamilton",
+    "Province":"ON",
+    "Postal Code / Code postal":"L8L 4C7",
+    "Telephone / Téléphone":"(905) 522-2414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.42891,45.46081 ]
+    },
+    "properties": {
+    "Plant_Number":4040,
+    "Plant_Name":"Pêche Fumé",
+    "Address":"105 Concession Rd 7",
+    "City":"St-Eugene",
+    "Province":"ON",
+    "Postal Code / Code postal":"K0B 1P0",
+    "Telephone / Téléphone":"(613) 677-4331"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3407,43.80595 ]
+    },
+    "properties": {
+    "Plant_Number":4041,
+    "Plant_Name":"Sing Hai Seafood Co. Ltd.",
+    "Address":"100 Tempo Avenue - Unit 10",
+    "City":"North York",
+    "Province":"ON",
+    "Postal Code / Code postal":"M2H 2N8",
+    "Telephone / Téléphone":"(416) 289-2889"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.41524,43.80392 ]
+    },
+    "properties": {
+    "Plant_Number":4042,
+    "Plant_Name":"Elite Salads International",
+    "Address":"75-77 Doncaster Avenue",
+    "City":"Thornhill",
+    "Province":"ON",
+    "Postal Code / Code postal":"L3T 1L6",
+    "Telephone / Téléphone":"(905) 771-9356"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.68482,43.5163 ]
+    },
+    "properties": {
+    "Plant_Number":4044,
+    "Plant_Name":"Woodward Meat Purveyors Inc.",
+    "Address":"2586 Bristol Circle",
+    "City":"Oakville",
+    "Province":"ON",
+    "Postal Code / Code postal":"L6H 6Z7",
+    "Telephone / Téléphone":"(905) 847-7200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.25635,43.78506 ]
+    },
+    "properties": {
+    "Plant_Number":4053,
+    "Plant_Name":"Great Lake Seafood Trading Inc.",
+    "Address":"46 - 140 Milner Avenue",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1S 3R3",
+    "Telephone / Téléphone":"(416) 292-5565"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.30659,43.71689 ]
+    },
+    "properties": {
+    "Plant_Number":4054,
+    "Plant_Name":"Fisherfolk",
+    "Address":"90 Northline Road",
+    "City":"Toronto",
+    "Province":"ON",
+    "Postal Code / Code postal":"M4B 3E5",
+    "Telephone / Téléphone":"(416) 562-8819"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.29426,43.80445 ]
+    },
+    "properties": {
+    "Plant_Number":4055,
+    "Plant_Name":"Pearl River Food Company Ltd.",
+    "Address":"B-15 - 23 Milliken Blvd.",
+    "City":"Scarborough",
+    "Province":"ON",
+    "Postal Code / Code postal":"M1V 5H7",
+    "Telephone / Téléphone":"(413) 332-1676"
+    }
+  }
+]
+}
